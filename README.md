@@ -20,3 +20,6 @@ To configure Sublime Text to use the theme, follow the instructions below.
 
 ### Code Font
 The code font shown in the screenshot is DejaVu Sans Mono.
+
+### Sublime Text Theme
+The theme in the screenshot is [Nexus](https://github.com/EleazarCrusader/nexus-theme).
