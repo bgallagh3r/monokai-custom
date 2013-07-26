@@ -2,7 +2,7 @@
 
 Custom Monokai Theme based off [Soda Color Schemes](https://github.com/buymeasoda/soda-theme/).
 
-![Monokai Custom](https://github.com/bgallagh3r/monokai-custom/screenshot.jpg)
+![Monokai Custom](https://raw.github.com/bgallagh3r/monokai-custom/master/screenshot.jpg)
 
 ## Activating the theme
 
